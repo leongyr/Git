@@ -26,3 +26,7 @@ git add .
 git commit -m "Move folder to subdirectory"
 
 git push origin master
+
+# Vim
+i: insert
+:wq save and write
